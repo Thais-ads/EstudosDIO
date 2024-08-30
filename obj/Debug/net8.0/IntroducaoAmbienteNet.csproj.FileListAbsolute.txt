@@ -1,0 +1,14 @@
+C:\Users\thais\Desktop\BootCamp\IntroducaoAmbienteNet\obj\Debug\net8.0\IntroducaoAmbienteNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thais\Desktop\BootCamp\IntroducaoAmbienteNet\obj\Debug\net8.0\IntroducaoAmbienteNet.AssemblyInfoInputs.cache
+C:\Users\thais\Desktop\BootCamp\IntroducaoAmbienteNet\obj\Debug\net8.0\IntroducaoAmbienteNet.AssemblyInfo.cs
+C:\Users\thais\Desktop\BootCamp\IntroducaoAmbienteNet\obj\Debug\net8.0\IntroducaoAmbienteNet.csproj.CoreCompileInputs.cache
+C:\Users\thais\Desktop\BootCamp\IntroducaoAmbienteNet\bin\Debug\net8.0\IntroducaoAmbienteNet.exe
+C:\Users\thais\Desktop\BootCamp\IntroducaoAmbienteNet\bin\Debug\net8.0\IntroducaoAmbienteNet.deps.json
+C:\Users\thais\Desktop\BootCamp\IntroducaoAmbienteNet\bin\Debug\net8.0\IntroducaoAmbienteNet.runtimeconfig.json
+C:\Users\thais\Desktop\BootCamp\IntroducaoAmbienteNet\bin\Debug\net8.0\IntroducaoAmbienteNet.dll
+C:\Users\thais\Desktop\BootCamp\IntroducaoAmbienteNet\bin\Debug\net8.0\IntroducaoAmbienteNet.pdb
+C:\Users\thais\Desktop\BootCamp\IntroducaoAmbienteNet\obj\Debug\net8.0\IntroducaoAmbienteNet.dll
+C:\Users\thais\Desktop\BootCamp\IntroducaoAmbienteNet\obj\Debug\net8.0\refint\IntroducaoAmbienteNet.dll
+C:\Users\thais\Desktop\BootCamp\IntroducaoAmbienteNet\obj\Debug\net8.0\IntroducaoAmbienteNet.pdb
+C:\Users\thais\Desktop\BootCamp\IntroducaoAmbienteNet\obj\Debug\net8.0\IntroducaoAmbienteNet.genruntimeconfig.cache
+C:\Users\thais\Desktop\BootCamp\IntroducaoAmbienteNet\obj\Debug\net8.0\ref\IntroducaoAmbienteNet.dll
